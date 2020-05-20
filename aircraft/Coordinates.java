@@ -1,4 +1,4 @@
-package app.aircraft;
+package aircraft;
 
 public class Coordinates {
     private int _longitude;

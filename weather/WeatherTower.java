@@ -1,5 +1,5 @@
-package app.weather;
-import app.aircraft.*;
+package weather;
+import aircraft.*;
 
 public class WeatherTower extends Tower {
     public String getWeather(Coordinates coordinates) {

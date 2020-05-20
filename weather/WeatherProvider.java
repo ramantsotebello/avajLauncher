@@ -1,6 +1,6 @@
-package app.weather;
+package weather;
 
-import app.aircraft.*;
+import aircraft.*;
 
 public class WeatherProvider {
     private static WeatherProvider weatherProvider = new WeatherProvider();

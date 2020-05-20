@@ -1,8 +1,6 @@
-package app.aircraft;
+package aircraft;
 
-import app.aircraft.Helicopter;
-import app.aircraft.JetPlane;
-import app.aircraft.Baloon;
+import aircraft.*;
 
 public class AircraftFactory {
     public static Flyable newAircraft(String type, String name, int longitude, int latitude, int height) {
